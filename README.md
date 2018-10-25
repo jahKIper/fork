@@ -24,5 +24,7 @@ $masParamz = array(
 	'16' => 'id17',
 	'17' => 'id18',
 );
+
 doParallel('doTest', $masParamz, 'DOP_PARAMETR');
+
 echo "---\n";
