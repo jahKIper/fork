@@ -2,8 +2,10 @@
 my fork function with example
 
 /**
+
 *example
 */
+
 $masParamz = array(
 	'0' => 'id1',
 	'1' => 'id2',
